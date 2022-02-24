@@ -12,10 +12,10 @@
 
 <br/>
 Hey, I'm Daniel Medina, Website Developer and Gamer!
-![]()
+
 <br/>
 
-
+<br/>
 **Projects**
 
 - [My Portfolio](https://www.danielmed.com)
