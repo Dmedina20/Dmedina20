@@ -16,12 +16,11 @@
 
 <br/>
 <h1 >About Me</h1>
-I'm Daniel Medina, Website Developer and Gamer!
-
+I'm a front-end web developer who is strong on React.Js/Gatsby.Js. I have a strong passion to learning new technologies and implementing them into future projects or current ones. I have worked in solo and in team environments and my goal is to grow and learn as a developer.
 <br/>
 <br/>
 
-<h1>**Projects**</h1>
+<h1>My Projects</h1>
 
 - [My Portfolio](https://www.danielmed.com) {**Vue.JS/Cosmic.Js**}
 - [Karols Cakes](https://karols-cakes.netlify.app) {**React.js/Gatsby.js/Tailwinds**}
