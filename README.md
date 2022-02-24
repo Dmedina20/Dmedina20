@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Daniel Medina!
 
 <br/>
-<a href="https://discord.com/users/925883745498697750" target="_blank" >
-    <img align ="left" alt="Dmedina20 Discord" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+<a href="https://www.linkedin.com/in/dannymedina007/" target="_blank" >
+    <img align ="left" alt="Dmedina20 LinkedIN" width="22px" src ="https://img.icons8.com/ios-glyphs/30/000000/linkedin.png" />
 </a>
   
   <a href="https://github.com/Dmedina20" target="_blank">
@@ -12,12 +12,6 @@
 ![]()
 
 <br/>
-
-<!-- ![Discord](https://discord.c99.nl/widget/theme-3/173557815326015488.png) -->
-<a href="https://discord.com/users/925883745498697750">
-<img src="https://discord.c99.nl/widget/theme-3/173557815326015488.png" alt="Discord"/>
-</a>
-
 Hey, I'm Daniel Medina, Website Developer and Gamer!
 
 **Projects**
