@@ -12,7 +12,7 @@
 
 <br/>
 Hey, I'm Daniel Medina, Website Developer and Gamer!
-
+![]()
 <br/>
 
 
