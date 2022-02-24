@@ -30,4 +30,4 @@ Hey, I'm Daniel Medina, Website Developer and Gamer!
 
 
 <div align="left"><img src="https://github-profile-trophy.vercel.app/?username=Dmedina20&theme=tokyonight&count_private=true&include_all_commits"></div>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Dmedina20&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dmedina20&theme=tokyonight&hide=batchfile&layout=default">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Dmedina20&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dmedina20&theme=tokyonight&hide=batchfile&layout=default?show=language1,language2">
