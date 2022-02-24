@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Daniel Medina!
+<h1>### Hi there 👋, I'm Daniel Medina!</h1>
 
 <br/>
 <a href="https://www.linkedin.com/in/dannymedina007/" target="_blank" >
@@ -30,7 +30,7 @@ I'm a front-end web developer who is strong on React.Js/Gatsby.Js. I have a stro
 - [Hodl-It](https://hodl-it.store) (Crypto Merch!) 
 
 
-**Stats:**  
+<h1>My Stats</h1>
 
 
 <div align="left"><img src="https://github-profile-trophy.vercel.app/?username=Dmedina20&theme=tokyonight&count_private=true&include_all_commits"></div>
