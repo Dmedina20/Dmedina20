@@ -15,13 +15,13 @@
 ![]()
 
 <br/>
-<h1 style="color:blue;">A Blue Heading</h1>
-Hey, I'm Daniel Medina, Website Developer and Gamer!
+<h1 >About Me</h1>
+I'm Daniel Medina, Website Developer and Gamer!
 
 <br/>
 <br/>
 
-**Projects**
+<h1>**Projects**</h1>
 
 - [My Portfolio](https://www.danielmed.com) {**Vue.JS/Cosmic.Js**}
 - [Karols Cakes](https://karols-cakes.netlify.app) {**React.js/Gatsby.js/Tailwinds**}
