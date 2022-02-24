@@ -15,6 +15,7 @@
 ![]()
 
 <br/>
+<h1 style="color:blue;">A Blue Heading</h1>
 Hey, I'm Daniel Medina, Website Developer and Gamer!
 
 <br/>
