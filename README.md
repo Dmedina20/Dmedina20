@@ -29,5 +29,5 @@ Hey, I'm Daniel Medina, Website Developer and Gamer!
 **Stats:**  
 
 
-<div align="left"><img src="https://github-profile-trophy.vercel.app/?username=Dmedina20&theme=synthwave&count_private=true"></div>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Dmedina20&show_icons=true&hide_border=true&theme=synthwave&include_all_commits"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dmedina20&theme=synthwavet&hide=batchfile">
+<div align="left"><img src="https://github-profile-trophy.vercel.app/?username=Dmedina20&theme=tokyonight&count_private=true"></div>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Dmedina20&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dmedina20&theme=synthwave&hide=batchfile">
