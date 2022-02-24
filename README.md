@@ -15,7 +15,7 @@ Hey, I'm Daniel Medina, Website Developer and Gamer!
 
 <br/>
 <br/>
-https://hodl-it.store
+
 **Projects**
 
 - [My Portfolio](https://www.danielmed.com) {**Vue.JS/Cosmic.Js**}
