@@ -2,10 +2,10 @@
 
 <br/>
 <a href="https://www.linkedin.com/in/dannymedina007/" target="_blank" >
-    <img align ="left" alt="Dmedina20 LinkedIN" width="22px" src ="https://img.icons8.com/nolan/64/linkedin.png" />
+    <img align ="left" alt="Dmedina20 LinkedIN" width="64px" src ="https://img.icons8.com/nolan/64/linkedin.png" />
 </a>
   <a href="https://github.com/Dmedina20" target="_blank">
-    <img align ="left" alt="Dmedina20 Github " width="22px" src ="https://img.icons8.com/nolan/64/repository.png" />
+    <img align ="left" alt="Dmedina20 Github " width="64px" src ="https://img.icons8.com/nolan/64/repository.png" />
   </a>
   
 ![]()
