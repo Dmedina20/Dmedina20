@@ -15,7 +15,7 @@ Hey, I'm Daniel Medina, Website Developer and Gamer!
 
 <br/>
 <br/>
-
+https://hodl-it.store
 **Projects**
 
 - [My Portfolio](https://www.danielmed.com) {**Vue.JS/Cosmic.Js**}
@@ -23,6 +23,7 @@ Hey, I'm Daniel Medina, Website Developer and Gamer!
 - [LucityMC](https://reactproject-f9d50.web.app) (Unfinished) {**React.js/Tailwinds/Tebex/Next**}
 - [LIH Esports](https://lih.gg) (Unfinished) {**Wordpress**}
 - [Harvard In Tech](https://www.harvardintechseattle.com) (Worked on their react project) {**React.Js/Gatsby.Js/ReactBootstrap**}
+- [Hodl-It](https://hodl-it.store) (Crypto Merch!) 
 
 
 **Stats:**  
