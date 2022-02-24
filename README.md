@@ -17,7 +17,9 @@ Hey, I'm Daniel Medina, Website Developer and Gamer!
 
 <br/>
 **Projects**
+<br/>
 
+<br/>
 - [My Portfolio](https://www.danielmed.com)
 - [Karols Cakes](https://karols-cakes.netlify.app)
 - [LucityMC](https://reactproject-f9d50.web.app) (Unfinished)
