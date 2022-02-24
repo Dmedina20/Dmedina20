@@ -26,5 +26,5 @@ Hey, I'm Daniel Medina, Website Developer and Gamer!
 **Stats:**  
 
 
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Dmedina20&theme=dracula&count_private=true"></div>
+<div align="left"><img src="https://github-profile-trophy.vercel.app/?username=Dmedina20&theme=dracula&count_private=true"></div>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Dmedina20&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dmedina20&theme=tokyonight&hide=batchfile">
