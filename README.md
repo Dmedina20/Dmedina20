@@ -34,4 +34,4 @@ I'm a front-end web developer who is strong in React.Js/Gatsby.Js. I have a stro
 
 
 <div align="left"><img src="https://github-profile-trophy.vercel.app/?username=Dmedina20&theme=tokyonight&count_private=true&include_all_commits"></div>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Dmedina20&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits">
+
