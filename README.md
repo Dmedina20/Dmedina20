@@ -16,7 +16,7 @@
 
 <br/>
 <h1 >About Me</h1>
-I'm a front-end web developer who is strong in React.Js/Gatsby.Js. I have a strong passion to learning new technologies and implementing them into future projects or current ones. I have worked in solo and in team environments and my goal is to grow and learn as a developer.
+I'm a Front-End Software Engineer. I have a strong passion to learning new techstacks and implementing them into future or current projects. I have worked in solo and in team environments.
 <br/>
 <br/>
 
