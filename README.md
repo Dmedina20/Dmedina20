@@ -26,7 +26,7 @@ I'm a Front-End Software Engineer. I have a strong passion to learning new techs
 - *Project* [Karols Cakes](https://karols-cakes.netlify.app) {**React.js/Gatsby.js/Tailwinds**} (Unfinished)
 - *Project for a Client I Worked on* [LucityMC](https://reactproject-f9d50.web.app)  {**React.js/Tailwinds/Tebex/Next**} (Unfinished)
 - [Harvard In Tech](https://www.harvardintechseattle.com) (Worked on their react project) {**React.Js/Gatsby.Js/ReactBootstrap**}
-- [Gold Taxi] (https://goldtaxi.taximachine.com/home/) Made the Front-End 100% for clients web application 
+- [Gold Taxi](https://goldtaxi.taximachine.com/home/) Made the Front-End 100% for clients web application 
 
 <h1>My Stats</h1>
 
