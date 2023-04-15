@@ -23,10 +23,8 @@ I'm a Front-End Software Engineer. I have a strong passion to learning new techs
 <h1>My Projects</h1>
 
 - [My Portfolio](https://www.danielmed.com) {**Vue.JS/Cosmic.Js**}
-- *Project* [Karols Cakes](https://karols-cakes.netlify.app) {**React.js/Gatsby.js/Tailwinds**} (Unfinished)
-- *Project for a Client I Worked on* [LucityMC](https://reactproject-f9d50.web.app)  {**React.js/Tailwinds/Tebex/Next**} (Unfinished)
 - [Harvard In Tech](https://www.harvardintechseattle.com) (Worked on their react project) {**React.Js/Gatsby.Js/ReactBootstrap**}
-- [Gold Taxi](https://goldtaxi.taximachine.com) Made 100% of the Front-End for the clients web application for taxi services. (Data Pro LLC)
+- [Gold Taxi](https://goldtaxi.taximachine.com) Made 100% of the Front-End for the clients web application for taxi services.
 
 <h1>My Stats</h1>
 
