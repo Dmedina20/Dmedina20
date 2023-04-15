@@ -23,8 +23,8 @@ I'm a Front-End Software Engineer. I have a strong passion to learning new techs
 <h1>My Projects</h1>
 
 - [My Portfolio](https://www.danielmed.com) {**Vue.JS/Cosmic.Js**}
-- [Harvard In Tech](https://www.harvardintechseattle.com) (Worked on their react project) {**React.Js/Gatsby.Js/ReactBootstrap**}
-- [Gold Taxi](https://goldtaxi.taximachine.com) Made 100% of the Front-End for the clients web application for taxi services.
+- [Harvard In Tech](https://www.harvardintechseattle.com) {**React.Js/Gatsby.Js/ReactBootstrap**}
+- [Gold Taxi](https://goldtaxi.taximachine.com) {**HTML/JS/CSS**}
 
 <h1>My Stats</h1>
 
