@@ -4,9 +4,7 @@
 <a href="https://www.linkedin.com/in/dannymedina007/" target="_blank" >
     <img align ="left" alt="Dmedina20 LinkedIN" width="50px" src ="https://img.icons8.com/nolan/64/linkedin.png" />
 </a>
-  <a href="https://www.danielmed.com" target="_blank">
-    <img align ="left" alt="Dmedina20 Portfolio " width="50px" src ="https://img.icons8.com/nolan/64/resume.png" />
-  </a>
+  
   
   <br/>
   
