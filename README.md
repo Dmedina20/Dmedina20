@@ -22,7 +22,6 @@ I'm a Front-End Software Engineer. I have mostly been a Freelancer/Contractor fo
 - [My Portfolio](https://www.danielmed.com) {**Vue.JS/Cosmic.Js**}
 - [Gold Taxi](https://goldtaxi.taximachine.com) {**HTML/JS/CSS**}
 - [Instagram Clone](https://github.com/Dmedina20/Instagram-Clone) {**React/Redux/Firebase**}
-<h1>My Stats</h1>
 
 
 
