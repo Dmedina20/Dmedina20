@@ -12,10 +12,7 @@
   
 ![]()
 
-<br/>
-<h1 >About Me</h1>
-I'm a Front-End Software Engineer. I have mostly been a Freelancer/Contractor for most of my career and Im currently looking for a full-time permanent position, if you have a suggestion for a gig, let me know, check out my linkedin up above! 
-<br/>
+
 
 <h1>My Projects</h1>
 
