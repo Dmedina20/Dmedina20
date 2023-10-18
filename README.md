@@ -2,7 +2,7 @@
 
 <br/>
 <a href="https://www.linkedin.com/in/dannymedina007/" target="_blank" >
-    <img align ="left" alt="Dmedina20 LinkedIN" width="50px" src ="https://img.icons8.com/nolan/64/linkedin.png" />
+    <img align ="left" alt="Dmedina20 LinkedIN" width="50px" src ="https://img.icons8.com/nolan/64/linkedin.png](https://icons8.com/icon/8808/linkedin" />
 </a>
   
   
@@ -14,7 +14,7 @@
 
 
 
-<h1>My Projects</h1>
+<h2>My Projects</h2>
 
 - [My Portfolio](https://www.danielmed.com) {**Vue.JS/Cosmic.Js**}
 - [Gold Taxi](https://goldtaxi.taximachine.com) {**HTML/JS/CSS**}
