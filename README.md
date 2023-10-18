@@ -1,4 +1,4 @@
-<h1>Hi, I'm Daniel Medina</h1> 👋
+<h1>Hi, I'm Daniel Medina 👋</h1>
 
 <br/>
 <a href="https://www.linkedin.com/in/dannymedina007/" target="_blank" >
