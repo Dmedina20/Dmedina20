@@ -19,7 +19,7 @@
 - [My Portfolio](https://www.danielmed.com) {**Vue.JS/Cosmic.Js**}
 - [Gold Taxi](https://goldtaxi.taximachine.com) {**HTML/JS/CSS**}
 - [Instagram Clone](https://github.com/Dmedina20/Instagram-Clone) {**React/Redux/Firebase**}
-- [Odyssey](https://shop-odyssey.com) {**Shopify/Liquid*} My Shopify Store (Yes you can buy my products)
+- [Odyssey](https://shop-odyssey.com) {**Shopify/Liquid**} Me and a Friend made this Shopify store as a way to get another source of income, feel free to browse or buy something that catches your eye!
 
 
 
