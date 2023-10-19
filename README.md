@@ -30,7 +30,7 @@ I'm a front-end focused Software Engineer with an exceptional penchant for knowl
   A colleague and I have made this store as another source of income. Feel free to check it out!
 <br/>
 
-<h2>Languages and Frameworks I know or study 🤖 </h2> 
+<h2>Technologies I know or study 🤖 </h2> 
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dmedina20&layout=compact)
  <br/>
