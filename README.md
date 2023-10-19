@@ -2,7 +2,7 @@
 
 <br/>
 <a href="https://www.linkedin.com/in/dannymedina007/" target="_blank" >
-    <img align ="left" alt="Dmedina20 LinkedIN" width="50px" src ="https://img.icons8.com/?size=256&id=DXsvvP00lr24&format=png" />
+    <img align ="left" alt="Dmedina20 LinkedIN" width="50px" src ="https://img.icons8.com/?size=256&id=13930&format=png" />
 </a>
   
   
