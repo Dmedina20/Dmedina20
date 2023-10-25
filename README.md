@@ -17,7 +17,6 @@ I'm a front-end focused Software Engineer with an exceptional penchant for knowl
 
 <h2>My Projects 👾</h2>
 
-- [My Portfolio](https://www.danielmed.com) {**Vue.JS/Cosmic.Js**}
 - [Gold Taxi](https://goldtaxi.taximachine.com) {**HTML/JS/CSS**}
 - [Instagram Clone](https://github.com/Dmedina20/Instagram-Clone) {**React/Redux/Firebase**}
   
