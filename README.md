@@ -21,7 +21,7 @@ I'm a front-end focused Software Engineer with an exceptional penchant for knowl
 
 - [Gold Taxi](https://goldtaxi.taximachine.com) {**HTML/JS/CSS**}
 - [Instagram Clone](https://github.com/Dmedina20/Instagram-Clone) {**React/Redux/Firebase**}
-- [SAMMIES Icecram](https://github.com/Dmedina20/sammies) {**React/TailwindCSS/Redux/Firebase**}
+- [SAMMIES Icecream](https://github.com/Dmedina20/sammies) {**React/TailwindCSS/Redux/Firebase**}
   
 <br/>
 
@@ -29,7 +29,7 @@ I'm a front-end focused Software Engineer with an exceptional penchant for knowl
   
 - [Odyssey](https://shop-odyssey.com) {**Shopify/Liquid**}<br/>
   A colleague and I have made this store as another source of income. Feel free to check it out!
-- [SAMMIES Icecram](https://sammies.netlify.app) {**React/TailwindCSS/Redux/Firebase**}
+- [SAMMIES Icecream](https://sammies.netlify.app) {**React/TailwindCSS/Redux/Firebase**}
 <br/>
 
 <h2>Technologies I know or study 🤖 </h2> 
