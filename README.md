@@ -21,7 +21,7 @@ I'm a front-end focused Software Engineer with an exceptional penchant for knowl
 
 - [Gold Taxi](https://goldtaxi.taximachine.com) {**HTML/JS/CSS**}
 - [Odyssey](https://shop-odyssey.com) {**Shopify/Liquid**}
-- [SAMMIES Icecream](https://github.com/Dmedina20/sammies) {**React/TailwindCSS/Redux/Firebase**}
+- [SAMMIES Icecream](https://sammies.netlify.app) {**React/TailwindCSS/Redux/Firebase**}
   
 <br/>
 
