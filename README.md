@@ -52,7 +52,6 @@ I'm a front-end focused Software Engineer with an exceptional penchant for knowl
 <img align ="left" width="50px" title="Shopify" src ="https://img.icons8.com/?size=512&id=uSHYbs6PJfMT&format=png"/>
 <img align ="left" width="50px" title="Docker" src ="https://img.icons8.com/?size=512&id=cdYUlRaag9G9&format=png"/>
 <img align ="left" width="50px" title="Firebase" src ="https://img.icons8.com/?size=512&id=62452&format=png"/>
-<img align ="left" width="50px" title="AWS" src ="https://img.icons8.com/?size=512&id=33039&format=png"/>
 <img align ="left" width="50px" title="Git" src ="https://img.icons8.com/?size=512&id=20906&format=png"/>
 <img align ="left" width="50px" title="NPM" src ="https://img.icons8.com/?size=512&id=24895&format=png"/>
 
