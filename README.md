@@ -27,8 +27,7 @@ I'm a front-end focused Software Engineer with an exceptional penchant for knowl
 
   <h2>What I'm currently working on 💻</h2> 
   
-- [Odyssey](https://shop-odyssey.com) {**Shopify/Liquid**}<br/>
-- [SAMMIES Icecream](https://sammies.netlify.app) {**React/TailwindCSS/Redux/Firebase**}
+
 <br/>
 
 <h2>Technologies I know or study 🤖 </h2> 
