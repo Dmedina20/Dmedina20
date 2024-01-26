@@ -25,11 +25,6 @@ I'm a front-end focused Software Engineer with an exceptional penchant for knowl
   
 <br/>
 
-  <h2>What I'm currently working on 💻</h2> 
-  
-
-<br/>
-
 
 
 
