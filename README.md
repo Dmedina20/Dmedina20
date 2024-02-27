@@ -10,7 +10,7 @@
 <br/>
 <br/>
 <h2>About Me 🎩</h2>
-I'm a front-end focused Software Engineer with an exceptional penchant for knowledge and a relentless enthusiasm for embracing new technologies. I'm very well known around my peers for my coachability and my insatiable curiosity for new ways to solve everyday problems. I'm constantly seeking to expand my skillset and stay up to date with the latest trends in tech. I hope to be an inspiration for others on their journey of learning in the programming world!
+I'm a Software Engineer with an exceptional penchant for knowledge and a relentless enthusiasm for embracing new technologies. I'm very well known around my peers for my coachability and my insatiable curiosity for new ways to solve everyday problems. I'm constantly seeking to expand my skillset and stay up to date with the latest trends in tech. I hope to be an inspiration for others on their journey of learning in the programming world!
 <br/>
 <br/>
 
