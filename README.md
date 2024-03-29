@@ -17,14 +17,6 @@ I'm a Software Engineer with an exceptional penchant for knowledge and a relentl
 
 
 
-<h2>My Projects 👾</h2>
-
-- [Gold Taxi](https://goldtaxi.taximachine.com) {**HTML/JS/CSS**}
-- [Odyssey](https://shop-odyssey.com) {**Shopify/Liquid**}
-- [SAMMIES Icecream](https://sammies.netlify.app) {**React/TailwindCSS/Redux/Firebase**}
-  
-<br/>
-
 
 
 
