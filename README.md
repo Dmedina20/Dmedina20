@@ -10,7 +10,11 @@
 <br/>
 <br/>
 <h2>About Me 🎩</h2>
-I'm a Software Engineer with a real passion for learning and a love for diving into new technologies. My friends and coworkers often say I'm super adaptable and always eager to find fresh, creative solutions to everyday challenges. I’m all about leveling up my skills and keeping up with the latest tech trends. My goal? To inspire others and make the learning journey in programming as exciting as it’s been for me!
+I'm a Software Engineer with a real passion for learning and a love for diving into new technologies. My friends and coworkers often say I'm super adaptable and always eager to find fresh, creative solutions to everyday challenges. I’m all about leveling up my skills and keeping up with the latest tech trends. 
+<br/>
+<br/>
+<h2>My goal 🎩</h2>
+To inspire others and make the learning journey in programming as exciting as it’s been for me!
 <br/>
 <br/>
 
