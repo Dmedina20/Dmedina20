@@ -3,8 +3,7 @@ I'm a Software Engineer with a real passion for learning and a love for diving i
 
 
 <br/>
-<h2>My Goal ❓</h2>
-To inspire others and make the learning journey in programming as exciting as it’s been for me!
+
 <br/>
 <h2>My Socials</h2>
 <a href="https://www.linkedin.com/in/dannymedina007/" target="_blank" >
