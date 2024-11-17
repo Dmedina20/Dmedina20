@@ -10,7 +10,7 @@
 <br/>
 <br/>
 <h2>About Me 🎩</h2>
-I'm a Software Engineer with an exceptional penchant for knowledge and a relentless enthusiasm for embracing new technologies. I'm very well known around my peers for my coachability and my insatiable curiosity for new ways to solve everyday problems. I'm constantly seeking to expand my skillset and stay up to date with the latest trends in tech. I hope to be an inspiration for others on their journey of learning in the programming world!
+I'm a Software Engineer with a real passion for learning and a love for diving into new technologies. My friends and coworkers often say I'm super adaptable and always eager to find fresh, creative solutions to everyday challenges. I’m all about leveling up my skills and keeping up with the latest tech trends. My goal? To inspire others and make the learning journey in programming as exciting as it’s been for me!
 <br/>
 <br/>
 
